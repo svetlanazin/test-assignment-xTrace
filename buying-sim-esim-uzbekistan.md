@@ -17,6 +17,7 @@
 
 1. Купите SIM-карту.
 2. Активируйте карту:
+
   2.1. Вставьте карту в ваш телефон.
   2.2. Перезагрузите телефон.
   2.3. Дождитесь покдлючения сети.
@@ -24,16 +25,19 @@
 ### eSIM
 
 1. Купите eSIM.
-2. Активируйте карту. 
+2. Активируйте карту.
+
   2.1. Выберите **Добавить eSIM** в настройках телефона.
   2.2. Отсканируйте QR-код.
 ## {-}
 
 3. Настройте интернет:
+
   3.1. Проверьте/добавьте APN (информацию даст оператор или продавец).
   3.2. Включите передачу мобильных данных.
-4. Пополните баланс через терминалы, банковские и операторские приложения, банкоматы, офисы или карты пополнения.
-5. Проверьте подключение с помощью сервисного кода (например, Beeline — *102#, Ucell — *100#, Uztelecom — *100# или *111#) или в приложении оператора.
+
+5. Пополните баланс через терминалы, банковские и операторские приложения, банкоматы, офисы или карты пополнения.
+6. Проверьте подключение с помощью сервисного кода (например, Beeline — *102#, Ucell — *100#, Uztelecom — *100# или *111#) или в приложении оператора.
 
 > [!TIP]
 > Российские SIM-карты работают в роуминге, но локальные SIM/eSIM часто выгоднее.
@@ -52,13 +56,14 @@ To stay connected during your trip to Uzbekistan, choose one of the mobile netwo
 1. Choose the format — SIM or eSIM.
 2. Prepare your passport. SIM cards are registered through Biometric ID terminals. A passport is only required if registering at a legal address.
 
-Main steps
+## Main steps
 
 ## Results {.tabset}
 ### SIM
 
 1. Buy a SIM card.
 2. Activate the card:
+
   2.1. Insert the card into your phone.
   2.2. Restart your phone.
   2.3. Wait for the network connection.
@@ -67,16 +72,19 @@ Main steps
 
 1. Buy an eSIM.
 2. Activate the card.
+
   2.1. Select Add eSIM in your phone settings.
   2.2. Scan the QR code.
 
 {-}
 
 3. Set up the internet:
+
   3.1. Check/add the APN (your operator or seller will provide this information).
   3.2. Enable mobile data.
-4. Top up your balance via payment terminals, banking or operator apps, ATMs, service offices, or top-up cards.
-5. Check your connection using a service code (for example, Beeline — *102#, Ucell — *100#, Uztelecom — *100# or *111#) or in the operator’s app.
+
+5. Top up your balance via payment terminals, banking or operator apps, ATMs, service offices, or top-up cards.
+6. Check your connection using a service code (for example, Beeline — *102#, Ucell — *100#, Uztelecom — *100# or *111#) or in the operator’s app.
 
 > [!TIP]
 > Russian SIM cards work in roaming, but local SIM/eSIM options are often more cost-effective.
